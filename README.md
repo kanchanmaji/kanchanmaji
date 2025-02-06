@@ -1,118 +1,92 @@
-!-- HEADER IMAGE -->
+<!-- Header with Animated Text -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00FF00&center=true&vCenter=true&width=700&height=70&lines=Hey%2C+I'm+Kanchan+Maji!;Software+Developer+%7C+Tech+Enthusiast;Building+Awesome+Tech+%F0%9F%9A%80;Welcome+to+My+GitHub!">
+</h1>
+
+<!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="Banner" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=tecno-kanchan&label=Profile+Views&color=00FF00&style=flat" alt="tecno-kanchan" />
 </p>
 
-<h1 align="center">🚀 Hi, I'm Kanchan Maji! 👋</h1>
-<h3 align="center">A Passionate Developer from India</h3>
+---
 
-<!-- Typing SVG -->
+<!-- About Me -->
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" align="right" width="280px">
+
+## 🏆 About Me  
+- 💻 **Software Developer & Tech Enthusiast**  
+- 🌍 **Founder of a Tech Learning Startup in Jamtara, Jharkhand**  
+- 🎯 **Preparing for IIT-JEE | Passionate about AI & Data Science**  
+- 🛠 **Currently Building:**  
+  ✔ **Landing Page** 🌐  
+  ✔ **Advanced Online Code Compiler** 💻  
+  ✔ **Personal Portfolio Website** 🚀  
+- ⚡ **Fun Fact:** I turn ☕ into 🔥 code!  
+
+---
+
+<!-- GitHub Stats & Activity -->
+## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=🚀+Building+Awesome+Projects!;💡+Solving+Complex+Problems;🌍+Tech+is+My+Passion!;🎯+IIT+JEE+Aspirant" alt="Typing Animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tecno-kanchan&show_icons=true&theme=chartreuse-dark&count_private=true" height="180">
+  <img src="https://streak-stats.demolab.com?user=tecno-kanchan&theme=chartreuse-dark" height="180">
 </p>
-
----
-
-<!-- PROFILE VIEWS -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=tecno-kanchan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<!-- CONTRIBUTION SNAKE -->
 <p align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tecno-kanchan&layout=compact&theme=chartreuse-dark" height="150">
 </p>
 
 ---
 
-## 📜 About Me  
-```yaml
-name: Kanchan Maji
-role: Software Developer | Tech Enthusiast
-education: IIT-JEE Aspirant
-current_projects:
-  - Online HTML, CSS, JS Compiler
-  - Portfolio Website
-  - Home Automation
-fun_fact: "I love debugging more than coding!"
-
-
----
-
-🚀 My Tech Stack
-
+<!-- Technologies & Skills -->
+## 🛠 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,express,php,mysql,python,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,sass,nodejs,express,mongodb,react,redux,nextjs,git,github,vscode,linux,python,java,c,cpp,figma,postman,vercel,heroku,aws" />
 </p>
+
 ---
 
-🔥 GitHub Stats
+<!-- Projects -->
+## 🚀 Featured Projects  
+### 🔥 **1. Advanced Online Code Compiler**  
+- 🚀 **Technologies:** HTML, CSS, JavaScript, Monaco Editor, Tailwind CSS  
+- ⚡ **Features:** Live Code Preview, LocalStorage-based project management, Responsive UI  
+- 🎯 **Next Features:** Authentication, Real-time Collaboration, Secure Execution  
+- 🔗 **[View Project](https://github.com/tecno-kanchan/online-code-compiler)**  
 
+### 🌍 **2. Professional Landing Page**  
+- 🛠 **Technologies:** HTML, CSS, JavaScript  
+- ✨ **Features:** Responsive Design, Animations, SEO Optimization, CTA Sections  
+- 🔗 **[View Project](https://github.com/tecno-kanchan/landing-page)**  
+
+### 🎨 **3. Personal Portfolio Website**  
+- 🌟 **Technologies:** HTML, CSS, JavaScript  
+- 🌙 **Features:** Dark Mode, SEO Optimized, Interactive Animations, Contact Form  
+- 🔗 **[View Project](https://github.com/tecno-kanchan/portfolio-website)**  
+
+---
+
+<!-- Cool Badges -->
+## 🌟 GitHub Achievements  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tecno-kanchan&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tecno-kanchan&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tecno-kanchan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tecno-kanchan&theme=matrix&margin-w=15&margin-h=15&no-frame=true">
 </p>
----
-
-🌎 Latest Blog Posts
-
-<!-- BLOG POSTS:START -->🚀 Coming Soon...
-
-
-<!-- BLOG POSTS:END -->> Planning to start blogging? This section will auto-update with your latest articles!
-
-
-
 
 ---
 
-📲 Connect with Me
-
+<!-- Connect With Me -->
+## 🌐 Connect with Me  
 <p align="center">
-  <a href="https://twitter.com/kanchan_maji_" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/kanchan_maji_?logo=twitter&style=for-the-badge" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/kanchan-maji-40b468347" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:kanchan.iitan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://instagram.com/code_with_kanchan" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+  <a href="https://www.linkedin.com/in/tecno-kanchan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-00FF00?style=for-the-badge&logo=linkedin&logoColor=black"></a>
+  <a href="mailto:tecno-kanchan@gmail.com"><img src="https://img.shields.io/badge/Gmail-00FF00?style=for-the-badge&logo=gmail&logoColor=black"></a>
+  <a href="https://github.com/tecno-kanchan"><img src="https://img.shields.io/badge/GitHub-00FF00?style=for-the-badge&logo=github&logoColor=black"></a>
+  <a href="https://twitter.com/tecno-kanchan" target="_blank"><img src="https://img.shields.io/badge/Twitter-00FF00?style=for-the-badge&logo=twitter&logoColor=black"></a>
+  <a href="https://www.instagram.com/tecno-kanchan" target="_blank"><img src="https://img.shields.io/badge/Instagram-00FF00?style=for-the-badge&logo=instagram&logoColor=black"></a>
+  <a href="https://discord.gg/yourserver" target="_blank"><img src="https://img.shields.io/badge/Discord-00FF00?style=for-the-badge&logo=discord&logoColor=black"></a>
 </p>
+
 ---
 
-🏆 GitHub Achievements
-
+<!-- Fun Animation -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tecno-kanchan&theme=radical&no-frame=true&column=4" alt="GitHub Achievements" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px">
 </p>
----
-
-🎮 Fun & Extra
-
-🎭 Random Dev Meme:
-
-
-😂 Random Dev Joke:
-
-
-
-
----
-
-🎵 Music for Coding
-
-
-
-
----
-
-🚀 Let’s Code & Build the Future Together!
-
----
