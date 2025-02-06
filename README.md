@@ -1,92 +1,72 @@
-<!-- Header with Animated Text -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00FF00&center=true&vCenter=true&width=700&height=70&lines=Hey%2C+I'm+Kanchan+Maji!;Software+Developer+%7C+Tech+Enthusiast;Building+Awesome+Tech+%F0%9F%9A%80;Welcome+to+My+GitHub!">
-</h1>
+# ✨ Hi there, I'm Kanchan Maji! 👋
 
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tecno-kanchan&label=Profile+Views&color=00FF00&style=flat" alt="tecno-kanchan" />
-</p>
+**🚀 A Passionate Developer from India**  
+
+<img src="https://komarev.com/ghpvc/?username=tecno-kanchan&label=Profile%20views&color=0e75b6&style=flat" alt="techno-kanchan" />
 
 ---
 
-<!-- About Me -->
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" align="right" width="280px">
-
-## 🏆 About Me  
-- 💻 **Software Developer & Tech Enthusiast**  
-- 🌍 **Founder of a Tech Learning Startup in Jamtara, Jharkhand**  
-- 🎯 **Preparing for IIT-JEE | Passionate about AI & Data Science**  
-- 🛠 **Currently Building:**  
-  ✔ **Landing Page** 🌐  
-  ✔ **Advanced Online Code Compiler** 💻  
-  ✔ **Personal Portfolio Website** 🚀  
-- ⚡ **Fun Fact:** I turn ☕ into 🔥 code!  
+## 🔥 About Me:
+- 🛠️ Currently working on **Home Automation**
+- 🌱 Learning **Python, React.js, HTML, CSS, JavaScript, PHP**
+- 🤝 Looking to collaborate on **Artificial Intelligence**
+- 👨‍💻 Check out my work: [🌐 CodeWithKanchan](https://codewithkanchan.com)
+- 📝 I regularly write articles on **(Coming Soon...)**
+- 💬 Ask me about **Python, React.js, JavaScript, PHP**
+- 📫 Reach me at: **[📧 kanchan.iitan@gmail.com](mailto:kanchan.iitan@gmail.com)**
+- ⚡ Fun fact: **I believe "What I think, I can create!" ✨**
 
 ---
 
-<!-- GitHub Stats & Activity -->
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tecno-kanchan&show_icons=true&theme=chartreuse-dark&count_private=true" height="180">
-  <img src="https://streak-stats.demolab.com?user=tecno-kanchan&theme=chartreuse-dark" height="180">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tecno-kanchan&layout=compact&theme=chartreuse-dark" height="150">
-</p>
+## 🌐 Connect with Me:
+<div align="center">
+  
+  <a href="https://twitter.com/kanchan_maji_">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://linkedin.com/in/kanchan-maji-40b468347">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/code_with_kanchan">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://github.com/tecno-kanchan">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://t.me/codewithkanchan">
+    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://codewithkanchan.com">
+    <img src="https://img.shields.io/badge/-Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
 
----
+</div>
 
-<!-- Technologies & Skills -->
-## 🛠 Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,sass,nodejs,express,mongodb,react,redux,nextjs,git,github,vscode,linux,python,java,c,cpp,figma,postman,vercel,heroku,aws" />
-</p>
+## 🛠️ Languages & Tools:
 
----
+<div align="center">
 
-<!-- Projects -->
-## 🚀 Featured Projects  
-### 🔥 **1. Advanced Online Code Compiler**  
-- 🚀 **Technologies:** HTML, CSS, JavaScript, Monaco Editor, Tailwind CSS  
-- ⚡ **Features:** Live Code Preview, LocalStorage-based project management, Responsive UI  
-- 🎯 **Next Features:** Authentication, Real-time Collaboration, Secure Execution  
-- 🔗 **[View Project](https://github.com/tecno-kanchan/online-code-compiler)**  
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### 🌍 **2. Professional Landing Page**  
-- 🛠 **Technologies:** HTML, CSS, JavaScript  
-- ✨ **Features:** Responsive Design, Animations, SEO Optimization, CTA Sections  
-- 🔗 **[View Project](https://github.com/tecno-kanchan/landing-page)**  
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🎨 **3. Personal Portfolio Website**  
-- 🌟 **Technologies:** HTML, CSS, JavaScript  
-- 🌙 **Features:** Dark Mode, SEO Optimized, Interactive Animations, Contact Form  
-- 🔗 **[View Project](https://github.com/tecno-kanchan/portfolio-website)**  
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+</div>
 
-<!-- Cool Badges -->
-## 🌟 GitHub Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tecno-kanchan&theme=matrix&margin-w=15&margin-h=15&no-frame=true">
-</p>
-
----
-
-<!-- Connect With Me -->
-## 🌐 Connect with Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/tecno-kanchan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-00FF00?style=for-the-badge&logo=linkedin&logoColor=black"></a>
-  <a href="mailto:tecno-kanchan@gmail.com"><img src="https://img.shields.io/badge/Gmail-00FF00?style=for-the-badge&logo=gmail&logoColor=black"></a>
-  <a href="https://github.com/tecno-kanchan"><img src="https://img.shields.io/badge/GitHub-00FF00?style=for-the-badge&logo=github&logoColor=black"></a>
-  <a href="https://twitter.com/tecno-kanchan" target="_blank"><img src="https://img.shields.io/badge/Twitter-00FF00?style=for-the-badge&logo=twitter&logoColor=black"></a>
-  <a href="https://www.instagram.com/tecno-kanchan" target="_blank"><img src="https://img.shields.io/badge/Instagram-00FF00?style=for-the-badge&logo=instagram&logoColor=black"></a>
-  <a href="https://discord.gg/yourserver" target="_blank"><img src="https://img.shields.io/badge/Discord-00FF00?style=for-the-badge&logo=discord&logoColor=black"></a>
-</p>
-
----
-
-<!-- Fun Animation -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px">
-</p>
+## 👋 A great Thanks From
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=00C853&center=false&vCenter=true&multiline=false&width=280&height=40&lines=Kanchan+Maji)
