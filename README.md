@@ -12,12 +12,12 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif​">
 
 - 🛠️ Currently working on **Home Automation**
-- 🌱 Learning **Python, React.js, HTML, CSS, JavaScript, PHP**
+- 🌱 Learning **Python, React.js,Mysql ,Ai/ml , DevOps ,PHP**
 - 🤝 Looking to collaborate on **Artificial Intelligence**
 - 👨‍💻 Check out my work: [🌐 CodeWithKanchan](https://codewithkanchan.com)
 - 📝 I regularly write articles on **(Coming Soon...)**
-- 💬 Ask me about **Python, React.js, JavaScript, PHP**
-- 📫 Reach me at: **[📧 kanchan.iitan@gmail.com](mailto:kanchan.iitan@gmail.com)**
+- 💬 Ask me about **Python, React.js, MySQL, Ai/ml ,DevOps,PHP**
+- 📫 Reach me at: **[📧 kanchan Maji](mailto:kanchanmaji659@gmail.com)**
 - ⚡ Fun fact: **I believe "What I think, I can create!" ✨**
 
 ---
@@ -34,10 +34,10 @@
   <a href="https://instagram.com/code_with_kanchan">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://github.com/tecno-kanchan">
+  <a href="https://github.com/code-with-kanchan">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://t.me/codewithkanchan">
+  <a href="https://t.me/kanchan_maji">
     <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="https://codewithkanchan.com">
