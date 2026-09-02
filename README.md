@@ -1,6 +1,9 @@
 ![MasterHead](https://i.ibb.co/G38QfvHc/ezgif-7302e0aeba01dcd1.gif)
 
-<img src="https://komarev.com/ghpvc/?username=kanchanmaji&label=Profile%20views&color=0e75b6&style=flat" alt="kanchan.py" />
+![Profile Views](https://komarev.com/ghpvc/?username=kanchanmaji&color=E9B055&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/kanchanmaji?label=Followers&style=flat-square&color=B12228)](https://github.com/mrsanito?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/kanchanmaji?label=Total%20Stars&style=flat-square&color=E9B055)](https://github.com/mrsanito)
+
 
 # 💫 About Me:
 I'm a **software engineer and curious learner** who enjoys understanding things by building them.<br><br>- 💻 I enjoy **coding, building projects, and solving problems**.<br>- 🧩 I like going beyond making something work — I want to understand **why it works**.<br>- 🕊️ I value **freedom in coding** — the freedom to experiment, choose my own approach, and turn ideas into reality.<br>- 🚀 I enjoy experimenting with new ideas and turning them into working projects.<br>- 🧠 I'm naturally curious about **technology, science, mathematics, and how complex systems work**.<br>- 🌌 Outside technology, I have a strong interest in **the universe, philosophy, spirituality, and the nature of reality**.<br>- 📚 I believe the best way to learn is to **build, break, question, and rebuild**.<br>- 🔥 Currently focused on becoming a better **engineer, thinker, and problem solver**.
