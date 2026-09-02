@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/mVQHTDnS/1768594029936.png)
+![MasterHead](https://i.ibb.co/G38QfvHc/ezgif-7302e0aeba01dcd1.gif)
 
 # ✨ Hi there, I'm Kanchan Maji! 👋
 
