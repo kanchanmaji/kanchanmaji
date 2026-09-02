@@ -1,5 +1,7 @@
 ![MasterHead](https://i.ibb.co/G38QfvHc/ezgif-7302e0aeba01dcd1.gif)
 
+<img src="https://komarev.com/ghpvc/?username=kanchanmaji&label=Profile%20views&color=0e75b6&style=flat" alt="kanchan.py" />
+
 # 💫 About Me:
 I'm a **software engineer and curious learner** who enjoys understanding things by building them.<br><br>- 💻 I enjoy **coding, building projects, and solving problems**.<br>- 🧩 I like going beyond making something work — I want to understand **why it works**.<br>- 🕊️ I value **freedom in coding** — the freedom to experiment, choose my own approach, and turn ideas into reality.<br>- 🚀 I enjoy experimenting with new ideas and turning them into working projects.<br>- 🧠 I'm naturally curious about **technology, science, mathematics, and how complex systems work**.<br>- 🌌 Outside technology, I have a strong interest in **the universe, philosophy, spirituality, and the nature of reality**.<br>- 📚 I believe the best way to learn is to **build, break, question, and rebuild**.<br>- 🔥 Currently focused on becoming a better **engineer, thinker, and problem solver**.
 
@@ -13,9 +15,6 @@ I'm a **software engineer and curious learner** who enjoys understanding things 
 ![](https://github-readme-stats.shion.dev/api?username=kanchanmaji&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=kanchanmaji&theme=dark&hide_border=false)<br/>
 
-
----
-[![](https://komarev.com/ghpvc/?username=kanchanmaji&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kanchan.py) 
